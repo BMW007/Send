@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+#my personal rule for C&Keil
+/STM32F10x_FWLib/*
+/OBJ/*
+*.bat
+*.uvproj
+*.uvopt
+*.uvgui.Fzu_Xmu_bmw
+
