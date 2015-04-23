@@ -34,8 +34,9 @@
 #my personal rule for C&Keil
 /STM32F10x_FWLib/*
 /OBJ/*
+/CORE/*
+/FATFS/*
 *.bat
 *.uvproj
 *.uvopt
 *.uvgui.Fzu_Xmu_bmw
-
