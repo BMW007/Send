@@ -24,7 +24,7 @@
 #include "audiosel.h"
 #include "recorder.h"
 #include "timer.h"
-//Edited by XMU-BMW-007	    2015-03-24
+//Edited by XMU-BMW-007	    2015-4-23
 extern u8 Function_Select;
 u8  len=0;
 u16 t=0;
